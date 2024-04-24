@@ -1,0 +1,214 @@
+﻿Student,Project Choice 1,Project 2 Choice,Project 3 Choice,Project 1 (combine),Project 2 (combine),Project 3 (combine)
+1,Health Insurance,Homelessness,NFL Combine,11,15,15
+2,NFL Combine,NFL Combine,NFL Combine,13,15,14
+3,College Major,College Major,College Major,11,12.5,14.5
+4,COVID Tracker,COVID Tracker,COVID Tracker,15,15,15
+5,Homelessness,N/A,Homelessness,14,0,11
+6,Homelessness,NFL Combine,College Major,14.5,15,14.25
+7,NFL Combine,NFL Combine,NFL Combine,13,15,14
+8,NFL Combine,College Major,NFL Combine,13,14.5,15
+9,NFL Combine,NFL Combine,NFL Combine,13,15,15
+10,Heart Disease,Heart Disease,Heart Disease,14,15,15
+11,College Major,COVID Tracker,College Major,15,15,15
+12,College Major,College Major,College Major,15,15,14.75
+13,COVID Tracker,Heart Disease,Heart Disease,14,13,14
+14,College Major,College Major,College Major,15,12.25,15
+15,College Major,N/A,N/A,11,0,0
+16,N/A,N/A,N/A,0,0,0
+17,College Major,College Major,College Major,9,13.5,15
+18,College Major,College Major,College Major,14,13,14.25
+19,COVID Tracker,COVID Tracker,COVID Tracker,15,15,15
+20,College Major,Health Insurance,Health Insurance,13,9,15
+21,College Major,NFL Combine,College Major,14,15,14.75
+22,College Major,College Major,College Major,13,15,12
+23,NFL Combine,NFL Combine,NFL Combine,13,15,14
+24,N/A,N/A,N/A,0,0,0
+25,College Major,College Major,College Major,14,15,15
+26,College Major,College Major,College Major,14,15,14.75
+27,Health Insurance,N/A,N/A,12,0,0
+28,College Major,College Major,College Major,14,14.5,12
+29,College Major,College Major,N/A,14,12.5,0
+30,College Major,College Major,College Major,15,15,15
+31,COVID Tracker,COVID Tracker,COVID Tracker,13,11,15
+32,College Major,College Major,College Major,15,15,15
+33,NFL Combine,NFL Combine,NFL Combine,11,15,15
+34,NFL Combine,NFL Combine,NFL Combine,12,15,14
+35,Homelessness,Homelessness,Homelessness,14.35,14,10
+36,COVID Tracker,COVID Tracker,COVID Tracker,13,14,11
+37,COVID Tracker,COVID Tracker,NFL Combine,15,13,15
+38,Health Insurance,Health Insurance,Health Insurance,13,14,15
+39,Heart Disease,Heart Disease,Heart Disease,14,15,15
+40,College Major,COVID Tracker,COVID Tracker,15,15,15
+41,College Major,College Major,College Major,14,15,15
+42,Homelessness,Homelessness,Heart Disease,15,15,7.5
+43,Health Insurance,Homelessness,COVID Tracker,10,12,15
+44,N/A,COVID Tracker,COVID Tracker,0,9,15
+45,College Major,College Major,College Major,15,14.5,15
+46,N/A,N/A,N/A,0,0,0
+47,NFL Combine,NFL Combine,NFL Combine,13,12,15
+48,College Major,College Major,College Major,14,14,15
+49,Homelessness,Homelessness,Homelessness,15,15,15
+50,Heart Disease,Heart Disease,Heart Disease,11,12,11
+51,Heart Disease,Homelessness,Homelessness,6,14,14
+52,Homelessness,Homelessness,Homelessness,13.7,13,14
+53,N/A,Homelessness,Homelessness,0,14,14
+54,Heart Disease,COVID Tracker,Heart Disease,15,15,15
+55,COVID Tracker,COVID Tracker,COVID Tracker,9,15,15
+56,Heart Disease,Heart Disease,Heart Disease,14,9,12
+57,College Major,College Major,College Major,15,15,15
+58,Health Insurance,Health Insurance,Health Insurance,10,15,12
+59,Heart Disease,Heart Disease,Heart Disease,12,14,15
+60,Heart Disease,NFL Combine,NFL Combine,11,14,9
+61,Heart Disease,Heart Disease,Heart Disease,15,13,15
+62,Heart Disease,Heart Disease,Heart Disease,10,15,15
+63,NFL Combine,NFL Combine,NFL Combine,12,15,15
+64,Heart Disease,Homelessness,College Major,15,15,14.25
+65,College Major,College Major,College Major,15,15,15
+66,Heart Disease,Heart Disease,Heart Disease,13,14,15
+67,College Major,College Major,Heart Disease,14,14.5,15
+68,Health Insurance,COVID Tracker,Health Insurance,13,15,15
+69,Health Insurance,Health Insurance,Health Insurance,12,13,15
+70,Health Insurance,Health Insurance,Health Insurance,13,15,15
+71,N/A,N/A,N/A,0,0,0
+72,Homelessness,Homelessness,N/A,7.5,13,0
+73,NFL Combine,NFL Combine,NFL Combine,13,15,12
+74,NFL Combine,N/A,NFL Combine,15,0,7.5
+75,N/A,N/A,N/A,0,0,0
+76,Heart Disease,COVID Tracker,COVID Tracker,15,15,15
+77,Heart Disease,Heart Disease,Heart Disease,6,11,13
+78,Homelessness,Homelessness,Homelessness,11,9,9
+79,NFL Combine,COVID Tracker,COVID Tracker,13,12,15
+80,Homelessness,Homelessness,Homelessness,14.85,15,15
+81,Heart Disease,Heart Disease,Heart Disease,13,14,14
+82,COVID Tracker,COVID Tracker,Heart Disease,15,15,15
+83,College Major,College Major,College Major,13,15,15
+84,College Major,College Major,College Major,15,15,14.75
+85,College Major,College Major,College Major,15,11.75,14.25
+86,College Major,College Major,College Major,15,11.5,14
+87,Homelessness,Homelessness,NFL Combine,12.5,13,13
+88,Homelessness,Homelessness,Homelessness,15,15,15
+89,College Major,College Major,NFL Combine,10,7.25,9
+90,NFL Combine,Health Insurance,Heart Disease,15,15,15
+91,College Major,College Major,College Major,14,15,15
+92,NFL Combine,NFL Combine,NFL Combine,15,14,14
+93,COVID Tracker,COVID Tracker,COVID Tracker,13,15,14
+94,NFL Combine,NFL Combine,NFL Combine,13,15,15
+95,N/A,N/A,N/A,0,0,0
+96,College Major,COVID Tracker,Heart Disease,14,14,15
+97,COVID Tracker,COVID Tracker,COVID Tracker,15,15,14
+98,Health Insurance,Health Insurance,Health Insurance,13,11,15
+F23.01,Heart Disease,Heart Disease,Heart Disease,15,13,15
+F23.02,Homelessness,Homelessness,Homelessness,15,3,12
+F23.03,Health Insurance,Health Insurance,Health Insurance,11,12,13.5
+F23.04,Heart Disease,Heart Disease,Heart Disease,10.5,13,15
+F23.05,COVID Tracker,COVID Tracker,COVID Tracker,14,15,15
+F23.06,NFL Combine,NFL Combine,NFL Combine,13,10,13
+F23.07,Homelessness,Homelessness,Heart Disease,15,15,14
+F23.08,College Major,College Major,College Major,10,15,15
+F23.09,Homelessness,Homelessness,N/A,14,11.5,0
+F23.10,NFL Combine,NFL Combine,NFL Combine,9,14,11.5
+F23.11,COVID Tracker,COVID Tracker,COVID Tracker,14,13,11.5
+F23.12,Heart Disease,Heart Disease,Heart Disease,15,14,14
+F23.13,NFL Combine,College Major,N/A,11,12,0
+F23.14,COVID Tracker,COVID Tracker,COVID Tracker,15,12,15
+F23.15,College Major,NFL Combine,NFL Combine,15,14,14
+F23.16,Health Insurance,Homelessness,Homelessness,8,15,15
+F23.17,Heart Disease,Heart Disease,NFL Combine,12,12,14
+F23.18,Heart Disease,Heart Disease,Heart Disease,13,13,15
+F23.19,NFL Combine,NFL Combine,Heart Disease,13,15,12
+F23.20,NFL Combine,NFL Combine,College Major,13,15,11
+F23.21,Homelessness,NFL Combine,N/A,11,15,0
+F23.22,N/A,N/A,N/A,0,0,0
+F23.23,NFL Combine,Heart Disease,Heart Disease,10,10,15
+F23.24,Health Insurance,Health Insurance,Health Insurance,8,11,15
+F23.25,College Major,College Major,College Major,15,15,15
+F23.26,Heart Disease,Heart Disease,N/A,7,14,0
+F23.27,NFL Combine,NFL Combine,NFL Combine,11,15,12
+F23.28,College Major,Heart Disease,N/A,7,12,0
+F23.29,Health Insurance,College Major,College Major,15,15,15
+F23.30,Homelessness,Homelessness,Homelessness,15,15,11
+F23.31,NFL Combine,NFL Combine,NFL Combine,12,13,15
+F23.32,Heart Disease,Heart Disease,Heart Disease,10,14,13.5
+F23.33,Homelessness,Homelessness,Homelessness,15,15,15
+F23.34,N/A,Heart Disease,N/A,0,1,0
+F23.35,NFL Combine,NFL Combine,NFL Combine,15,15,14
+F23.36,Heart Disease,Heart Disease,Heart Disease,15,13,15
+F23.37,Heart Disease,Health Insurance,Heart Disease,9,14,12.5
+F23.38,Health Insurance,Health Insurance,Health Insurance,10,14,12
+F23.39,Health Insurance,College Major,COVID Tracker,9,15,8.5
+F23.40,College Major,Homelessness,Homelessness,14,15,15
+F23.41,NFL Combine,Homelessness,Homelessness,9,15,15
+F23.42,Heart Disease,Heart Disease,Heart Disease,15,15,15
+F23.43,NFL Combine,NFL Combine,NFL Combine,15,15,15
+F23.44,COVID Tracker,COVID Tracker,COVID Tracker,15,15,12.5
+F23.45,COVID Tracker,COVID Tracker,COVID Tracker,15,15,15
+F23.46,COVID Tracker,COVID Tracker,COVID Tracker,14,15,14
+F23.47,College Major,College Major,College Major,5,15,13.5
+F23.48,Heart Disease,Heart Disease,Heart Disease,10,15,15
+F23.49,College Major,N/A,N/A,10.5,0,0
+F23.50,Health Insurance,Homelessness,Homelessness,8,15,15
+F23.51,College Major,Health Insurance,N/A,5,10,0
+F23.52,Homelessness,Homelessness,Homelessness,13.5,15,15
+F23.53,Homelessness,Homelessness,Homelessness,15,15,15
+F23.54,NFL Combine,NFL Combine,NFL Combine,12,13,14
+F23.55,Homelessness,Homelessness,Homelessness,14.7,15,14
+F23.56,Heart Disease,Heart Disease,Heart Disease,15,13,12.5
+F23.57,NFL Combine,N/A,N/A,8,0,0
+F23.58,College Major,College Major,College Major,15,14,15
+F23.59,College Major,NFL Combine,NFL Combine,14,15,15
+F23.60,Heart Disease,College Major,Homelessness,13,15,9
+F23.61,Health Insurance,Health Insurance,Health Insurance,12,14,15
+F23.62,College Major,College Major,College Major,15,14,15
+F23.63,Heart Disease,Heart Disease,Heart Disease,14,14,14
+F23.64,Homelessness,Heart Disease,Heart Disease,15,14,15
+F23.65,College Major,College Major,Homelessness,13,11,15
+F23.66,Heart Disease,Heart Disease,Heart Disease,13,14,15
+F23.67,Homelessness,Homelessness,Homelessness,13,12,14
+F23.68,NFL Combine,NFL Combine,NFL Combine,15,13,15
+F23.69,College Major,College Major,College Major,15,15,15
+F23.70,Heart Disease,Heart Disease,Heart Disease,12,13,15
+F23.71,College Major,COVID Tracker,Homelessness,15,14,14
+F23.72,Heart Disease,Heart Disease,Heart Disease,15,15,12
+F23.73,COVID Tracker,Health Insurance,NFL Combine,13,11,15
+F23.74,Heart Disease,Heart Disease,Heart Disease,12,11,15
+F23.75,Homelessness,Homelessness,Homelessness,13,14,14
+F23.76,Health Insurance,Heart Disease,Heart Disease,13,13,13
+F23.77,COVID Tracker,Homelessness,College Major,9,8,1
+F23.78,Homelessness,Homelessness,N/A,15,15,0
+F23.79,NFL Combine,College Major,NFL Combine,9,11.5,14
+F23.80,Health Insurance,Homelessness,Heart Disease,12,15,13
+F23.81,Heart Disease,Heart Disease,Heart Disease,13,13,15
+F23.82,College Major,College Major,College Major,11,15,15
+F23.83,College Major,College Major,College Major,15,14.5,15
+F23.84,Heart Disease,Heart Disease,Heart Disease,15,12,14
+F23.85,Heart Disease,Heart Disease,Heart Disease,15,12,13
+F23.86,College Major,COVID Tracker,N/A,9,9,0
+F23.87,NFL Combine,NFL Combine,NFL Combine,9,11,13
+F23.88,NFL Combine,NFL Combine,N/A,13,8,0
+F23.89,Homelessness,Homelessness,Homelessness,14,15,15
+F23.90,NFL Combine,NFL Combine,NFL Combine,15,14,13
+F23.91,Health Insurance,COVID Tracker,College Major,14,15,15
+F23.92,College Major,Homelessness,College Major,14,15,13
+F23.93,NFL Combine,NFL Combine,NFL Combine,9,14,15
+F23.94,Heart Disease,Heart Disease,Heart Disease,8,13,13
+F23.95,Health Insurance,Homelessness,N/A,15,15,0
+F23.96,Health Insurance,Health Insurance,Health Insurance,14,15,14
+F23.97,Heart Disease,Heart Disease,N/A,10,9,0
+F23.98,College Major,College Major,College Major,11,14.5,15
+F23.99,Health Insurance,Heart Disease,Heart Disease,15,14,15
+F23.100,NFL Combine,COVID Tracker,COVID Tracker,13,14,14
+F23.101,Homelessness,Homelessness,Homelessness,13,15,15
+F23.102,Heart Disease,Homelessness,Homelessness,9,15,15
+F23.103,Heart Disease,Homelessness,N/A,9,6.5,0
+F23.104,NFL Combine,NFL Combine,NFL Combine,11,14,15
+F23.105,Homelessness,Homelessness,Homelessness,15,15,15
+F23.106,NFL Combine,NFL Combine,NFL Combine,11,15,12
+F23.107,NFL Combine,NFL Combine,NFL Combine,11,15,14
+F23.108,College Major,College Major,College Major,13,11,8
+F23.109,N/A,N/A,N/A,0,0,0
+F23.110,College Major,Heart Disease,Heart Disease,13,11,14
+F23.111,COVID Tracker,NFL Combine,College Major,13,14,15
+F23.112,Heart Disease,Heart Disease,Heart Disease,14,14,15
+F23.113,College Major,College Major,College Major,11,14.5,14
+F23.114,NFL Combine,NFL Combine,NFL Combine,13,14,13
+F23.115,College Major,College Major,College Major,14,15,15
